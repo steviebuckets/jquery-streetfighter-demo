@@ -17,6 +17,3 @@ $(document).ready(function() {
     // ryu goes back to his ready position
   });
 });
-/* text /*
-
-/testing to see if this /
